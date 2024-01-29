@@ -1,12 +1,12 @@
 {
-    "name": "ezsystems/ezphttprequest",
+    "name": "se7enxweb/ezphttprequest",
     "description": "Provides ezpHttpRequest, a child class of HttpRequest",
-    "homepage": "http://share.ez.no",
+    "homepage": "https://github.com/se7enxweb/ezphttprequest",
     "license": "GPL-2.0",
     "type": "ezpublish-legacy-extension",
     "require": {
         "ext-http": "~1.7",
-        "ezsystems/ezpublish-legacy-installer": "*"
+        "se7enxweb/ezpublish-legacy-installer": "*"
     },
     "extra": {
         "ezpublish-legacy-extension-name": "ezphttprequest"
